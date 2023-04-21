@@ -1,4 +1,4 @@
-from setuptools import find_packages, setup
+from setuptools import find_packages,setup
 """This will find all available packages within ML"""
 from typing import List
 
@@ -18,10 +18,6 @@ def get_requirements(file_path:str)->List[str]:
 
 
     return requirements
-
-
-
-
 
 
 
