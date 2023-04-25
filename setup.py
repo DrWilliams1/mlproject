@@ -27,7 +27,7 @@ setup(
     author="Joby",
     author_email='joeb45@msn.com',
     packages=find_packages(),
-    install_requires=get_requirements('requirements.txt')
+    install_requires=get_requirements("requirements.txt")
 
 )
 """Writing all of the parameters required and info about the entire project,

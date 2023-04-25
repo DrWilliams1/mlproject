@@ -1,5 +1,6 @@
 import sys
 import logging
+from src.logger import logging
 """The sys module provides various functions and variables that are used to
 manipulate different parts of the python runtime environment"""
 
